@@ -9,13 +9,16 @@
 Name = "Vansh Bhargava"
 Profession = {
   'MERN STACK':  '❤️',
-  'Nextjs':  '❤️',
-  'Django':  '✅',
+  
   'Open Source':  '❤️'
 }
+
 Age = "20"
+
 Country = "India"
+
 College = "Chitkara University, Punjab"
+
 Portfolio = "https://myportfolio-nine-iota.vercel.app/"
 
 About= [
