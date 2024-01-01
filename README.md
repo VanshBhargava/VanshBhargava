@@ -41,4 +41,4 @@ About= [
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-[![An image of @aryainguz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshbhargava)](https://www.holopin.io/@vanshbhargava)
+[![An image of @vanshbhargava's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@vanshbhargava#badges)](https://www.holopin.io/@vanshbhargava)
