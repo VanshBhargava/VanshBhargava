@@ -25,8 +25,11 @@ College = "Chitkara University, Punjab"
 Portfolio = "https://myportfolio-nine-iota.vercel.app/"
 
 About= [
+
   "I'm a Front-End Developer",
+
   "Programming ideas into reality",
+
 ]
 
 ## 🌐 Socials:
